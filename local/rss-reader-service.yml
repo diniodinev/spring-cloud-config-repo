@@ -1,4 +1,6 @@
-configuration.projectName=RSS Reader Local
+configuration:
+  projectName: RSS Reader Local
+  
 site: 
   dnesbg: 
     today: http://www.dnes.bg/rss.php?today
