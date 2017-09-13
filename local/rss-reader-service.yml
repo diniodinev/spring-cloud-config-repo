@@ -4,3 +4,6 @@ configuration:
 site: 
   dnesbg: 
     today: http://www.dnes.bg/rss.php?today
+    bulgaria: http://www.dnes.bg/rss.php?cat=1
+    world: http://www.dnes.bg/rss.php?cat=2
+    technologies: http://www.dnes.bg/rss.php?cat=4
