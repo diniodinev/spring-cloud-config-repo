@@ -9,6 +9,9 @@ site:
     technologies: http://www.dnes.bg/rss.php?cat=4
     rootUrl: http://www.dnes.bg/eu/2017/10/03/.
     last: 355135
+    titleSelector: h1.title
+    descriptionSelector: div.descr
+    contentSelector: #article_text
   bbc:
     topstories: http://feeds.bbci.co.uk/news/rss.xml
     world: http://feeds.bbci.co.uk/news/world/rss.xml
