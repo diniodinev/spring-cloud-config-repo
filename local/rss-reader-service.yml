@@ -12,3 +12,4 @@ site:
     world: http://feeds.bbci.co.uk/news/world/rss.xml
     uk: http://feeds.bbci.co.uk/news/uk/rss.xml
     science: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    rootUrl: http://www.dnes.bg/eu/2017/10/03/.
