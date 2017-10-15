@@ -15,6 +15,11 @@ site:
     contentSelector: "#article_text"
     authorSelector: "a[title*=Всички]"
     createdDateSelector: "div.art_author"
+    commentTextSelector: "div.comment_text"
+    commentUsernameSelector: "div.comment_user"
+    commentBoxSelector: "div.comment-box"
+    commentUpSelector: "span.comments-grades-up"
+    commentDownSelector: "span.comments-grades-down"
   bbc:
     topstories: http://feeds.bbci.co.uk/news/rss.xml
     world: http://feeds.bbci.co.uk/news/world/rss.xml
