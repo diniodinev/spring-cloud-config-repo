@@ -12,6 +12,7 @@ site:
     titleSelector: h1.title
     descriptionSelector: div.descr
     contentSelector: "#article_text"
+    authorSelector: "a[title*=Всички]"
     createdDateSelector: "div.art_author"
   bbc:
     topstories: http://feeds.bbci.co.uk/news/rss.xml
