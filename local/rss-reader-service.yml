@@ -8,13 +8,15 @@ site:
     world: http://www.dnes.bg/rss.php?cat=2
     technologies: http://www.dnes.bg/rss.php?cat=4
     rootUrl: http://www.dnes.bg/eu/2017/10/03/.
-    last: 355135
+    last: 356174
     titleSelector: h1.title
     descriptionSelector: div.descr
     contentSelector: "#article_text"
-    authorSelector: "a[title*=Всички]"
+    createdDateSelector: "div.art_author"
   bbc:
     topstories: http://feeds.bbci.co.uk/news/rss.xml
     world: http://feeds.bbci.co.uk/news/world/rss.xml
     uk: http://feeds.bbci.co.uk/news/uk/rss.xml
     science: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    
+
