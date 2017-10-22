@@ -13,6 +13,7 @@ site:
     titleSelector: h1.title
     descriptionSelector: div.descr
     contentSelector: "#article_text"
+    contentImage: img[src*=images/photos]
     authorSelector: "a[title*=Всички]"
     createdDateSelector: "div.art_author"
     commentTextSelector: "div.comment_text"
