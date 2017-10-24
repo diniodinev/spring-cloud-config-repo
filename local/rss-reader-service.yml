@@ -14,6 +14,7 @@ site:
     descriptionSelector: div.descr
     contentSelector: "#article_text"
     contentImage: img[src~=(images/photos|photos)]
+    slideShowSelector: img[src~=(images/slideshows)]
     authorSelector: "a[title*=Всички]"
     createdDateSelector: "div.art_author"
     commentTextSelector: "div.comment_text"
