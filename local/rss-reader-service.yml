@@ -9,7 +9,7 @@ site:
     technologies: http://www.dnes.bg/rss.php?cat=4
     rootUrl: http://www.m.dnes.bg/eu/2017/10/03/.
     commentUrl: http://m.dnes.bg/comments.php?id=
-    commentUrlSeparatpr: "&cp="
+    commentUrlSeparator: "&cp="
     last: 357425
     datetimeFormatter: dd MMM yyyy HH:mm
     titleSelector: h1.title
