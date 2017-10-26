@@ -20,7 +20,7 @@ site:
     authorSelector: "a[title*=Всички]"
     createdDateSelector: "div.art_author"
     commentTextSelector: "div.comment_text"
-    commentUsernameSelector: "div.comment_user"
+    commentUsernameSelector: "div.author-name"
     commentBoxSelector: "div.comment-box"
     commentUpSelector: "span.comments-grades-up"
     commentDownSelector: "span.comments-grades-down"
