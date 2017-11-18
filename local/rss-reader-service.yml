@@ -3,12 +3,12 @@ configuration:
   
 site: 
   dnesbg: 
-    today: http://www.dnes.bg/rss.php?today
-    bulgaria: http://www.dnes.bg/rss.php?cat=1
-    world: http://www.dnes.bg/rss.php?cat=2
-    technologies: http://www.dnes.bg/rss.php?cat=4
-    rootUrl: http://www.m.dnes.bg/eu/2017/10/03/.
-    commentUrl: http://m.dnes.bg/comments.php?id=
+    today: https://www.dnes.bg/rss.php?today
+    bulgaria: https://www.dnes.bg/rss.php?cat=1
+    world: https://www.dnes.bg/rss.php?cat=2
+    technologies: https://www.dnes.bg/rss.php?cat=4
+    rootUrl: https://www.m.dnes.bg/eu/2017/10/03/.
+    commentUrl: https://m.dnes.bg/comments.php?id=
     commentUrlSeparator: "&cp="
     last: 357425
     datetimeFormatter: dd MMM yyyy HH:mm
@@ -25,9 +25,9 @@ site:
     commentUpSelector: "a[class*=comments-grades-up]"
     commentDownSelector: "a[class*=comments-grades-down]"
   bbc:
-    topstories: http://feeds.bbci.co.uk/news/rss.xml
-    world: http://feeds.bbci.co.uk/news/world/rss.xml
-    uk: http://feeds.bbci.co.uk/news/uk/rss.xml
-    science: http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    topstories: https://feeds.bbci.co.uk/news/rss.xml
+    world: https://feeds.bbci.co.uk/news/world/rss.xml
+    uk: https://feeds.bbci.co.uk/news/uk/rss.xml
+    science: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
     
 
