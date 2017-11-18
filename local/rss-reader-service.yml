@@ -7,10 +7,10 @@ site:
     bulgaria: https://www.dnes.bg/rss.php?cat=1
     world: https://www.dnes.bg/rss.php?cat=2
     technologies: https://www.dnes.bg/rss.php?cat=4
-    rootUrl: https://www.m.dnes.bg/eu/2017/10/03/.
+    rootUrl: https://m.dnes.bg/politika/2017/11/10/.
     commentUrl: https://m.dnes.bg/comments.php?id=
     commentUrlSeparator: "&cp="
-    last: 357425
+    last: 359680
     datetimeFormatter: dd MMM yyyy HH:mm
     titleSelector: h1.title
     descriptionSelector: div.descr
