@@ -17,7 +17,8 @@ site:
     contentSelector: "#article_text"
     contentImage: img[src~=(images/photos|photos)]
     slideShowSelector: img[src~=(images/slideshows)]
-    authorSelector: "a[title*=Всички]"
+    authorSelector: "div.author-name"
+    authorAfterTextSelector: "По публикацията работи: "
     createdDateSelector: "div.art_author"
     commentTextSelector: "div.right"
     commentUsernameSelector: "div.author-name"
