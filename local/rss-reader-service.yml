@@ -12,9 +12,9 @@ site:
     commentUrlSeparator: "&cp="
     last: 359680
     datetimeFormatter: dd MMM yyyy HH:mm
-    titleSelector: h1.title
+    titleSelector: div.article-title h1
     descriptionSelector: div.descr
-    contentSelector: "#article_text"
+    contentSelector: "div.article"
     contentImage: img[src~=(images/photos|photos)]
     slideShowSelector: img[src~=(images/slideshows)]
     authorSelector: "div.author-name"
