@@ -18,6 +18,7 @@ site:
     uriImageSelector: "div.article-photo"
     contentImage: img[src~=(images/photos|photos)]
     slideShowSelector: img[src~=(images/slideshows)]
+    slideShowAllImagesParentSelector: div.gallery-center
     authorSelector: "div.author-name"
     authorAfterTextSelector: "По публикацията работи: "
     createdDateSelector: "div.art_author"
