@@ -10,7 +10,7 @@ site:
     rootUrl: https://m.dnes.bg/politika/2017/11/10/.
     commentUrl: https://m.dnes.bg/comments.php?id=
     commentUrlSeparator: "&cp="
-    last: 359680
+    last: 360287
     datetimeFormatter: dd MMM yyyy HH:mm
     titleSelector: div.article-title h1
     descriptionSelector: div.descr
