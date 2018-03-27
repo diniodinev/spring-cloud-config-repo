@@ -32,5 +32,10 @@ site:
     world: https://feeds.bbci.co.uk/news/world/rss.xml
     uk: https://feeds.bbci.co.uk/news/uk/rss.xml
     science: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+  capital:
+    bulgaria: https://www.capital.bg/rss/?rubrid=2249
+    world: https://www.capital.bg/rss/?rubrid=2253
+    technologies: https://www.capital.bg/rss/?rubrid=2274
+    galeries: https://www.capital.bg/rss/?rubrid=2344
     
 
