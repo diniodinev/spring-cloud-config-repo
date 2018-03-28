@@ -39,5 +39,7 @@ site:
     world: https://www.capital.bg/rss/?rubrid=2253
     technologies: https://www.capital.bg/rss/?rubrid=2274
     galeries: https://www.capital.bg/rss/?rubrid=2344
+    contentTag: "div#ourStoryContent"
+    descriptionTag: div.showhead h2
     
 
