@@ -41,6 +41,6 @@ site:
     galeries: https://www.capital.bg/rss/?rubrid=2344
     contentTag: "div#ourStoryContent"
     descriptionTag: div.showhead h2
-    authorTag: div#author span#name
+    authorTag: div.author span.name
     
 
