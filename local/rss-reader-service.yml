@@ -13,8 +13,8 @@ site:
     last: 365662
     datetimeFormatter: dd MMM yyyy HH:mm
     titleSelector: div.article-title h1
-    descriptionSelector: div.descr
-    contentSelector: "div.article"
+    descriptionTag: div.descr
+    contentTag: "div.article"
     uriImageSelector: "div.article-photo"
     contentImage: img[src~=(images/photos|photos)]
     slideShowSelector: img[src~=(images/slideshows)]
