@@ -44,7 +44,7 @@ site:
     authorTag: div.author span.name
     title: div.content h1
     secondTitle: div.content h2
-    initalDate: div.showHeadTop span.text
+    initialDate: div.showHeadTop span.text
     initialDateAttribute: data-pubdate
     
     
