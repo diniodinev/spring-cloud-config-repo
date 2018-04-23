@@ -46,7 +46,7 @@ site:
    secondTitle: div.content h2
    initialDate: div.showHeadTop span.text
    initialDateAttribute: data-pubdate
-   excludePaths: div.info,div.anons
+   excludePaths: div.info,div.amore,table.news_tblwide
 
     
 
