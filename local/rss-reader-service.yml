@@ -27,7 +27,7 @@ site:
     commentBoxSelector: "div.comment-box"
     commentUpSelector: "a[class*=comments-grades-up]"
     commentDownSelector: "a[class*=comments-grades-down]"
-    excludePaths: div.article-author,span.article_author_bottom,div.photo_descr,div.feedback_comment,div.article_related_right
+    excludePaths: div.article-author,div.social-content,ul.clearfix,span.article_author_bottom,div.photo_descr,div.feedback_comment,div.article_related_right
   bbc:
     topstories: https://feeds.bbci.co.uk/news/rss.xml
     world: https://feeds.bbci.co.uk/news/world/rss.xml
