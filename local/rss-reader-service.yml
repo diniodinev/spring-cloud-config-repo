@@ -27,6 +27,7 @@ site:
     commentBoxSelector: "div.comment-box"
     commentUpSelector: "a[class*=comments-grades-up]"
     commentDownSelector: "a[class*=comments-grades-down]"
+    excludePaths: span.article_author_bottom,div.photo_descr,div.feedback_comment,div.article_related_right
   bbc:
     topstories: https://feeds.bbci.co.uk/news/rss.xml
     world: https://feeds.bbci.co.uk/news/world/rss.xml
@@ -47,6 +48,3 @@ site:
    initialDate: div.showHeadTop span.text
    initialDateAttribute: data-pubdate
    excludePaths: div.info,div.amore,table.news_tblwide
-
-    
-
