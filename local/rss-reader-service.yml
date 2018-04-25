@@ -49,3 +49,4 @@ site:
    initialDateAttribute: data-pubdate
    excludePaths: div.info,div.amore,table.news_tblwide
    singleImageTag: div.bigPhotoGal
+   imagesBaseUrl: https://www.capital.bg/
