@@ -50,3 +50,5 @@ site:
    excludePaths: div.info,div.amore,table.news_tblwide
    singleImageTag: div.bigPhotoGal
    imagesBaseUrl: https://www.capital.bg
+   slideShowSelector: img
+   slideShowAllImagesParentSelector: ul.filterLightPhoto
