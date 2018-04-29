@@ -50,5 +50,4 @@ site:
    excludePaths: div.info,div.amore,table.news_tblwide
    singleImageTag: ul.filterLightPhoto
    imagesBaseUrl: https://www.capital.bg
-   slideShowSelector: img[src~=^/shimg/.*.jpg$]
-   slideShowAllImagesParentSelector: 
+   contentImage: img[src~=^/shimg/.*.jpg$]
