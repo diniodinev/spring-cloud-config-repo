@@ -50,4 +50,4 @@ site:
    excludePaths: div.info,div.amore,table.news_tblwide
    singleImageTag: ul.filterLightPhoto
    imagesBaseUrl: https://www.capital.bg
-   contentImage: img[src~=^/shimg/.*.jpg$]
+   contentImage: img[src~=^/shimg/.*.jpg$] alt["Снимка"]
