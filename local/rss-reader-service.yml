@@ -51,3 +51,4 @@ site:
    singleImageTag: div.bigPhotoGal
    imagesBaseUrl: https://www.capital.bg
    contentImage: img[src~=^/shimg/.*.jpg$] alt["Снимка"]
+   slideShowAllImagesParentSelector: ul.filterLightPhoto
