@@ -48,7 +48,7 @@ site:
    initialDate: div.showHeadTop span.text
    initialDateAttribute: data-pubdate
    excludePaths: div.info,div.amore,table.news_tblwide
-   singleImageTag: div.bigPhotoGal
+   singleImageTag: ul.filterLightPhoto
    imagesBaseUrl: https://www.capital.bg
    slideShowSelector: img[src~=^/shimg/.*.jpg$]
-   slideShowAllImagesParentSelector: ul.filterLightPhoto
+   slideShowAllImagesParentSelector: 
