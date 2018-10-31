@@ -16,7 +16,7 @@ site:
     descriptionTag: div.descr
     contentTag: "div.article"
     uriImageSelector: "div.article-photo"
-    singleImageTag: div.todo
+    singleImageTag: div.art_text
     imagesBaseUrl: https://www.dnes.bg
     contentImage: img[src~=(images/photos|photos)]
     slideShowSelector: img[src~=(images/slideshows)]
@@ -29,7 +29,7 @@ site:
     commentBoxSelector: "div.comment-box"
     commentUpSelector: "a[class*=comments-grades-up]"
     commentDownSelector: "a[class*=comments-grades-down]"
-    excludePaths: div.article-author,div.social-content,ul.clearfix,span.article_author_bottom,div.photo_descr,div.feedback_comment,div.article_related_right
+    excludePaths: div.social-content,ul.clearfix,span.article_author_bottom,div.photo_descr,div.feedback_comment,div.article_related_right
   bbc:
     topstories: https://feeds.bbci.co.uk/news/rss.xml
     world: https://feeds.bbci.co.uk/news/world/rss.xml
