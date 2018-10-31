@@ -16,7 +16,7 @@ site:
     descriptionTag: div.descr
     contentTag: "div.article"
     uriImageSelector: "div.article-photo"
-    singleImageTag: div.art_text
+    singleImageTag: "div.article-photo"
     imagesBaseUrl: https://www.dnes.bg
     contentImage: img[src~=(images/photos|photos)]
     slideShowSelector: img[src~=(images/slideshows)]
